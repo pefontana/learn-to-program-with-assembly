@@ -17,4 +17,3 @@ _start:
 
 	# Perform the system call
 	syscall
-
